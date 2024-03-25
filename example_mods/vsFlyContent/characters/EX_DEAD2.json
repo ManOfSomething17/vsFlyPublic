@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-405,
+				-189
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "die1 instance",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-421,
+				-360
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "die2 instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-407,
+				-358
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "die3 instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EX_DEAD2",
+	"position": [
+		-380,
+		110
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		870,
+		-680
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999
+}

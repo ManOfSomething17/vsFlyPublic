@@ -1,0 +1,4 @@
+Forces the game to keep the vocals on. Works as a toggle.
+
+Value 1: true or false, if set to true the game will force the vocal track
+to be at full volume at all times until set to false

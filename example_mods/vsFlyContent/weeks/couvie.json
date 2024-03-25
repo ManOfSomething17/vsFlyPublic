@@ -1,0 +1,32 @@
+{
+	"storyName": "MOO",
+	"difficulties": "Hard, Expert",
+	"hideFreeplay": false,
+	"weekBackground": "paper",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"cow",
+		""
+	],
+	"songs": [
+		[
+			"Irritating",
+			"flyreal",
+			[
+				169,
+				92,
+				68
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Couvie",
+	"hiddenUntilUnlocked": false
+}

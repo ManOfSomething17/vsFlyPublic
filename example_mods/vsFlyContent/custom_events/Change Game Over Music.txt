@@ -1,0 +1,5 @@
+Changes the music
+used for the Game Over screen.
+
+Value 1: Main Game Over music.
+Value 2: Retry music.

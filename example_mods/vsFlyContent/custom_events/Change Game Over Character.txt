@@ -1,0 +1,5 @@
+Changes the character and sound
+used for the Game Over screen.
+
+Value 1: New character (.json) name
+Value 2: Initial death sound

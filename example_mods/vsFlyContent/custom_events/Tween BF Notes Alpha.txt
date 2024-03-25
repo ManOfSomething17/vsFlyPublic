@@ -1,0 +1,6 @@
+Fades all the player's notes.
+
+Value 1: the alpha the notes will change to
+Value 2: how long the tween takes
+
+value 2 is effected by playback rate

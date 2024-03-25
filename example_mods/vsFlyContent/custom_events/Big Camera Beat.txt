@@ -1,0 +1,3 @@
+the silly upbeat camera beat thing
+
+value 1: true or false, basic toggle stuff

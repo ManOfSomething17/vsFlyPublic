@@ -1,0 +1,3 @@
+Sets Camera Zoom
+
+Value 1: the cam zoom

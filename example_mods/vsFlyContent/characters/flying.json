@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				55
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				147
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				62
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				524,
+				237
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "drop",
+			"indices": [],
+			"name": "drop instance"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-13,
+				68
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "flying instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-190,
+				450
+			],
+			"anim": "away",
+			"fps": 24,
+			"name": "away instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/flying",
+	"position": [
+		530,
+		420
+	],
+	"healthicon": "fly",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		90,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

@@ -1,0 +1,212 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				13
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				21
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MissUp instance"
+		},
+		{
+			"offsets": [
+				-33,
+				-31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MissDown instance"
+		},
+		{
+			"offsets": [
+				26,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MissLeft instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				8
+			],
+			"anim": "React",
+			"fps": 24,
+			"name": "React instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-6,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "alert",
+			"indices": [],
+			"name": "alert instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				7
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MissRight instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				0
+			],
+			"anim": "Pose",
+			"fps": 24,
+			"name": "hey instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-13,
+				-4
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF NOTE DOWN instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				1
+			],
+			"anim": "blink",
+			"fps": 24,
+			"name": "blink instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				13
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "leftalt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				12
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "rightalt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				18
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "upalt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				14
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "downalt instance",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/EX_BF",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "exbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		153,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

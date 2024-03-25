@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				12
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BF NOTE LEFT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BF NOTE RIGHT instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				18
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MissUp instance"
+		},
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				229,
+				221
+			],
+			"anim": "Pose",
+			"fps": 24,
+			"name": "Pose instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-10,
+				-24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MissDown instance"
+		},
+		{
+			"offsets": [
+				46,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MissLeft instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				8
+			],
+			"anim": "React",
+			"fps": 24,
+			"name": "React instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-9,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "alert",
+			"indices": [],
+			"name": "alert instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				7
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MissRight instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EX_BF_UP",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "exbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		153,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

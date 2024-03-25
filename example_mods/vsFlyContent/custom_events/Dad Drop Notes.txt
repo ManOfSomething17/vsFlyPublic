@@ -1,0 +1,4 @@
+Causes the opponent's notes to drop and fade out.
+
+Value 1: true or false, determines if the 
+hud shakes with the effect.

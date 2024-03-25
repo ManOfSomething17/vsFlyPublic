@@ -1,0 +1,60 @@
+import objects.Alphabet;
+
+import flixel.text.FlxText;
+import flixel.tweens.FlxEase;
+import flixel.tweens.FlxTween;
+
+var songTitle:Alphabet;
+var composerName:FlxText;
+
+function onCreatePost():Void
+{
+    songTitle = new Alphabet(0, 0, '"' + game.songName + '"', true);
+    songTitle.scaleX = 0.5;
+    songTitle.scaleY = 0.5;
+    songTitle.x = (FlxG.width - songTitle.width) / 2;
+    songTitle.y = (FlxG.height - songTitle.height) / 2 - 160;
+    songTitle.alpha = 0;
+    add(songTitle);
+
+    composerName = new FlxText(0, songTitle.y + 48, 0, "by " + game.metadata.artist, 20);
+    composerName.setFormat(Paths.font("vcr.ttf"), 20, FlxColor.WHITE);
+	composerName.setBorderStyle(game.scoreTxt.borderStyle, 0xFF000000, 1.25);
+    composerName.borderSize = 1.25;
+    composerName.x = (FlxG.width - composerName.width) / 2;
+    composerName.alpha = 0;
+    add(composerName);
+
+    songTitle.camera = game.camHUD;
+    composerName.camera = game.camHUD;
+}
+
+function onSongStart():Void
+{
+    if (game.songName == 'fli'.toLowerCase())
+    {
+        var initTimer = new FlxTimer().start(10.38 / playbackRate, function(tmr:FlxTimer)
+        {
+            init();
+        });
+    }
+    else
+    {
+        init();
+    }
+}
+
+function init():Void
+{
+    songTitle.y -= 20;
+    FlxTween.tween(songTitle, {alpha: 1, y: songTitle.y + 20}, 0.4 / playbackRate, {ease: FlxEase.circOut});
+
+    composerName.y -= 20;
+    FlxTween.tween(composerName, {alpha: 1, y: composerName.y + 20}, 0.4 / playbackRate, {ease: FlxEase.circOut, startDelay: 0.6 / playbackRate});
+
+    var leaveTimer = new FlxTimer().start(5 / playbackRate, function(tmr:FlxTimer)
+    {
+        FlxTween.tween(songTitle, {alpha: 0, y: songTitle.y - 20}, 0.2 / playbackRate, {ease: FlxEase.circOut});
+        FlxTween.tween(composerName, {alpha: 0, y: composerName.y - 20}, 0.2 / playbackRate, {ease: FlxEase.circOut});
+    });
+}

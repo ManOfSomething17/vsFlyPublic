@@ -1,0 +1,58 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1420,
+				1194
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "dead_1 instance"
+		},
+		{
+			"offsets": [
+				991,
+				-149
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "dead_2 instance"
+		},
+		{
+			"offsets": [
+				991,
+				-149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "dead_3 instance"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/boyfie_DEAD2",
+	"position": [
+		60,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		1200,
+		-680
+	],
+	"sing_duration": 4,
+	"scale": 0.999999999999999,
+	"_editor_isPlayer": true
+}

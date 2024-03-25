@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="COW.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="enter instance 10000" x="1" y="1" width="823" height="468"/>
+	<SubTexture name="enter instance 10001" x="825" y="1" width="792" height="451" frameX="-6" frameY="-14" frameWidth="823" frameHeight="468"/>
+	<SubTexture name="enter instance 10002" x="1" y="470" width="618" height="337" frameX="-95" frameY="-70" frameWidth="823" frameHeight="468"/>
+	<SubTexture name="enter instance 10003" x="620" y="470" width="613" height="335" frameX="-97" frameY="-71" frameWidth="823" frameHeight="468"/>
+	<SubTexture name="enter instance 10004" x="620" y="470" width="613" height="335" frameX="-97" frameY="-71" frameWidth="823" frameHeight="468"/>
+	<SubTexture name="enter instance 10005" x="620" y="470" width="613" height="335" frameX="-97" frameY="-71" frameWidth="823" frameHeight="468"/>
+	<SubTexture name="enter instance 10006" x="620" y="470" width="613" height="335" frameX="-97" frameY="-71" frameWidth="823" frameHeight="468"/>
+	<SubTexture name="enter instance 10007" x="620" y="470" width="613" height="335" frameX="-97" frameY="-71" frameWidth="823" frameHeight="468"/>
+	<SubTexture name="enter instance 10008" x="620" y="470" width="613" height="335" frameX="-97" frameY="-71" frameWidth="823" frameHeight="468"/>
+	<SubTexture name="enter instance 10009" x="620" y="470" width="613" height="335" frameX="-97" frameY="-71" frameWidth="823" frameHeight="468"/>
+	<SubTexture name="idle instance 10000" x="1234" y="470" width="289" height="159"/>
+</TextureAtlas>

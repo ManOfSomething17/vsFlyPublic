@@ -1,0 +1,7 @@
+literally just handles the dimming stuff done for a sec in fli
+
+value 1: true or false, effects whether the stuff is
+activating or deactivating
+
+this ONLY works in fli lmao
+only made this an event txt for simplicity's sake

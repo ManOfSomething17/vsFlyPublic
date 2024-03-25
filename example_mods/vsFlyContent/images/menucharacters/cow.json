@@ -1,0 +1,15 @@
+{
+	"confirm_anim": "enter",
+	"idle_anim": "idle",
+	"position": [
+		-80,
+		-100
+	],
+	"scale": 1,
+	"confirm_offset": [
+		187,
+		95
+	],
+	"image": "COW",
+	"flipX": false
+}

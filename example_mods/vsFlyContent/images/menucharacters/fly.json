@@ -1,0 +1,15 @@
+{
+	"idle_anim": "idle instance 1",
+	"confirm_anim": "enter instance 1",
+	"position": [
+		223,
+		143
+	],
+	"confirm_offset": [
+		365,
+		143
+	],
+	"scale": 0.7,
+	"flipX": false,
+	"image": "FLY"
+}

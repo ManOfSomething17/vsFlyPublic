@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-15,
+				68
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				165
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "leftfly instance"
+		},
+		{
+			"offsets": [
+				-129,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "downfly instance"
+		},
+		{
+			"offsets": [
+				-179,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rightfly instance"
+		},
+		{
+			"offsets": [
+				-216,
+				217
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "upfly instance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fly real",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "flyreal",
+	"flip_x": false,
+	"healthbar_colors": [
+		69,
+		76,
+		97
+	],
+	"camera_position": [
+		120,
+		-30
+	],
+	"sing_duration": 3,
+	"scale": 1
+}

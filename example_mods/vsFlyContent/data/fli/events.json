@@ -1,0 +1,223 @@
+{
+	"song": {
+		"events": [
+			[
+				8432.43243243243,
+				[
+					[
+						"Play Animation",
+						"change",
+						"GF"
+					]
+				]
+			],
+			[
+				9729.72972972973,
+				[
+					[
+						"Play Animation",
+						"React",
+						"BF"
+					]
+				]
+			],
+			[
+				31094.5945945946,
+				[
+					[
+						"Big Camera Beat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				51851.3513513514,
+				[
+					[
+						"Big Camera Beat",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				72648.6486486487,
+				[
+					[
+						"Fli Dark Stuff",
+						"true",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				83023.6486486487,
+				[
+					[
+						"Fli Dark Stuff",
+						"false",
+						""
+					],
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				93364.8648648648,
+				[
+					[
+						"Big Camera Beat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				114121.621621622,
+				[
+					[
+						"Big Camera Beat",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				134432.432432432,
+				[
+					[
+						"Play Animation",
+						"drop",
+						"3"
+					]
+				]
+			],
+			[
+				134918.918918919,
+				[
+					[
+						"Play Animation",
+						"alert",
+						"BF"
+					],
+					[
+						"Force Unmute Vocals",
+						"true",
+						""
+					],
+					[
+						"Dad Drop Notes",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				139945.945945946,
+				[
+					[
+						"Add Camera Zoom",
+						"1",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"BF",
+						"FIGHT"
+					],
+					[
+						"Change Character",
+						"1",
+						"flying"
+					]
+				]
+			],
+			[
+				140108.108108108,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						"1"
+					],
+					[
+						"Change Game Over Character",
+						"EX_DEAD2",
+						"FlyDeath2"
+					],
+					[
+						"Force Unmute Vocals",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				150486.486486486,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Big Camera Beat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				160686.486486487,
+				[
+					[
+						"Play Animation",
+						"lose",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"away",
+						"3"
+					],
+					[
+						"Force Unmute Vocals",
+						"true",
+						""
+					],
+					[
+						"Big Camera Beat",
+						"false",
+						""
+					]
+				],
+				null,
+				"No Animation"
+			],
+			[
+				160864.864864865,
+				[
+					[
+						"Change Game Over Character",
+						"bf-dead",
+						"normal"
+					]
+				]
+			]
+		]
+	}
+}

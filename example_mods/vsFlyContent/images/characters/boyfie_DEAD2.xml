@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boyfie_DEAD2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dead_1 instance 10000" x="1" y="1" width="1801" height="715" frameX="0" frameY="-889" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10001" x="1803" y="1" width="1760" height="639" frameX="-41" frameY="-965" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10002" x="3564" y="1" width="1103" height="539" frameX="-698" frameY="-1065" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10003" x="4668" y="1" width="1139" height="410" frameX="-662" frameY="-1194" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10004" x="5808" y="1" width="552" height="430" frameX="-1281" frameY="-1160" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10005" x="6361" y="1" width="861" height="474" frameX="-1044" frameY="-1064" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10006" x="7223" y="1" width="586" height="463" frameX="-1485" frameY="-928" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10007" x="1" y="717" width="862" height="435" frameX="-1267" frameY="-772" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10008" x="864" y="717" width="671" height="537" frameX="-1678" frameY="-507" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10009" x="1536" y="717" width="862" height="550" frameX="-1521" frameY="-386" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10010" x="2399" y="717" width="963" height="582" frameX="-1872" frameY="-354" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10011" x="2399" y="717" width="963" height="582" frameX="-1521" frameY="-386" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10012" x="2399" y="717" width="963" height="582" frameX="-1872" frameY="-354" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10013" x="2399" y="717" width="963" height="582" frameX="-1521" frameY="-386" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10014" x="2399" y="717" width="963" height="582" frameX="-1872" frameY="-354" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10015" x="2399" y="717" width="963" height="582" frameX="-1521" frameY="-386" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10016" x="2399" y="717" width="963" height="582" frameX="-1872" frameY="-354" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10017" x="2399" y="717" width="963" height="582" frameX="-1521" frameY="-386" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10018" x="2399" y="717" width="963" height="582" frameX="-1872" frameY="-354" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10019" x="2399" y="717" width="963" height="582" frameX="-1521" frameY="-386" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10020" x="2399" y="717" width="963" height="582" frameX="-1872" frameY="-354" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10021" x="2399" y="717" width="963" height="582" frameX="-1521" frameY="-386" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10022" x="2399" y="717" width="963" height="582" frameX="-1872" frameY="-354" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10023" x="2399" y="717" width="963" height="582" frameX="-1521" frameY="-386" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10024" x="2399" y="717" width="963" height="582" frameX="-1872" frameY="-354" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10025" x="2399" y="717" width="963" height="582" frameX="-1521" frameY="-386" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10026" x="2399" y="717" width="963" height="582" frameX="-1872" frameY="-354" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10027" x="2399" y="717" width="963" height="582" frameX="-1521" frameY="-386" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10028" x="2399" y="717" width="963" height="582" frameX="-1872" frameY="-354" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10029" x="3363" y="717" width="1320" height="738" frameX="-1515" frameY="-525" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10030" x="4684" y="717" width="1730" height="1100" frameX="-1105" frameY="-525" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10031" x="6415" y="717" width="1755" height="1091" frameX="-1080" frameY="-525" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10032" x="1" y="1818" width="1845" height="1015" frameX="-990" frameY="-525" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10033" x="1" y="1818" width="1845" height="1015" frameX="-990" frameY="-525" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10034" x="1847" y="1818" width="2012" height="1029" frameX="-823" frameY="-525" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10035" x="3860" y="1818" width="2080" height="1052" frameX="-755" frameY="-525" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10036" x="5941" y="1818" width="2210" height="1115" frameX="-625" frameY="-525" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10037" x="5941" y="1818" width="2210" height="1115" frameX="-625" frameY="-525" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10038" x="1" y="2934" width="2231" height="1112" frameX="-604" frameY="-525" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10039" x="1" y="2934" width="2231" height="1112" frameX="-604" frameY="-525" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10040" x="2233" y="2934" width="2235" height="1115" frameX="-600" frameY="-525" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10041" x="4469" y="2934" width="2237" height="1115" frameX="-598" frameY="-525" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10042" x="1" y="4050" width="2237" height="1115" frameX="-598" frameY="-525" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10043" x="2239" y="4050" width="1147" height="1640" frameX="-600" frameY="0" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10044" x="3387" y="4050" width="1061" height="1242" frameX="-598" frameY="-398" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10045" x="4449" y="4050" width="1577" height="1580" frameX="-598" frameY="-60" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10046" x="6027" y="4050" width="1544" height="948" frameX="-442" frameY="-781" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10047" x="1" y="5691" width="1444" height="591" frameX="-432" frameY="-1156" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10048" x="1446" y="5691" width="1446" height="591" frameX="-430" frameY="-1156" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10049" x="2893" y="5691" width="1422" height="749" frameX="-430" frameY="-997" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10050" x="2893" y="5691" width="1422" height="749" frameX="-430" frameY="-997" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10051" x="4316" y="5691" width="1328" height="811" frameX="-430" frameY="-935" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10052" x="5645" y="5691" width="1304" height="820" frameX="-430" frameY="-926" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10053" x="5645" y="5691" width="1304" height="820" frameX="-430" frameY="-926" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10054" x="1" y="6512" width="1263" height="785" frameX="-430" frameY="-961" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10055" x="1265" y="6512" width="1229" height="685" frameX="-430" frameY="-1061" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10056" x="2495" y="6512" width="1211" height="431" frameX="-430" frameY="-1315" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10057" x="3707" y="6512" width="1178" height="403" frameX="-430" frameY="-1343" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10058" x="3707" y="6512" width="1178" height="403" frameX="-430" frameY="-1343" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10059" x="4886" y="6512" width="1185" height="403" frameX="-430" frameY="-1343" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10060" x="4886" y="6512" width="1185" height="403" frameX="-430" frameY="-1343" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_1 instance 10061" x="4886" y="6512" width="1185" height="403" frameX="-430" frameY="-1343" frameWidth="2835" frameHeight="1747"/>
+	<SubTexture name="dead_2 instance 10000" x="6072" y="6512" width="1185" height="403"/>
+	<SubTexture name="dead_3 instance 10000" x="6072" y="6512" width="1185" height="403"/>
+</TextureAtlas>

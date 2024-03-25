@@ -1,0 +1,68 @@
+{
+    "bios": [
+        {
+            "name": "bf",
+            "renderCount": 14,
+            "displayName": "Boyfriend",
+            "bio": "This lovable bastard loves his girlfriend very much, he would do anything to protect his loving GF. Boyfriend is mostly innocent and just doesn’t know better, but he’s also cocky and always up for a challenge. He often gets excited when his friends show up, usually being Girlfriend or Pico.\n\nHe’s not the smartest, and often kinda clumsy, but he's still (usually) aware in certain situtations. He’s easily afraid of unexpected threats, and has a lot of enemies (including a fly), but he always feels safe and confident when he’s with Girlfriend.\n\nAlso, he screams. A lot.\n\n(Not identical to canon!BF)\nVoiced by WondersVA",
+            "textSize": 22,
+            "color": "31B0D1"
+        },
+        {
+            "name": "gf",
+            "renderCount": 14,
+            "displayName": "Girlfriend",
+            "bio": "Girlfriend is a demon girl, who loves her BF very much, and is very silly and fun to hang with.\n\nGF may be dumb, but if she senses danger, she'll get serious to protect herself and those around her. GF is braver than her BF, more prone to getting curious and wanting to make friends, even offering handshakes. (She'll end you if you reject the offer.)\n\nBeing of a mysterious and dangerous species, GF is very powerful, naturally strong and able to teleport herself and others. She could erase the whole universe if she figured out how, and nobody even knows she has that much power, not even her parents.\n\n(Not identical to canon!GF)\nVoiced by Novasaur",
+            "textSize": 22,
+            "color": "A5004D"
+        },
+        {
+            "name": "pico",
+            "renderCount": 8,
+            "displayName": "Pico",
+            "bio": "Pico is friends with Boyfriend and Girlfriend, being the smartest of the trio. Though he doesn't take the lead, due to Girlfriend being stronger.\n\nPico has a little bit of a love/hate relationship with the love birds, not showing much emotion towards them. But it's safe to say he does care for them, given how he tries his best to protect them when he's able to.\n\nPico gets a little shy around Girlfriend, as she likes to tease him a lot, which prompts Boyfriend to join her, but he isn't too bothered by this.\n\nGF has a tendency to teleport Pico at random, and because of this he's spent ages trying to kill one singular Uberkid.\n\n(Not identical to canon!Pico)",
+            "textSize": 22,
+            "color": "B7D855"
+        },
+        {
+            "name": "fli",
+            "renderCount": 5,
+            "displayName": "Fli",
+            "bio": "Fli, or as some call it; \"The Fly\", is an awfully fast and dangerous fly that can apparently carry anything with it. It is currently unknown why Fli has such power, but just know that this isn't just any fly, this is the real deal.\n\nFli became dangerous because of Girlfriend, as she killed Fli's brother at some point. After finding out about his brother's death, Fli set out to get revenge on BF and GF.\n\nOther people are aware of Fli, to the point where he can even be seen on wanted posters. Fli has been abusing his power ever since the \"incident\".\n\nIronically, Fli's name is actually pronounced \"Flee\".",
+            "textSize": 22,
+            "color": "FFFFFF"
+        },
+        {
+            "name": "boyfie",
+            "renderCount": 5,
+            "displayName": "Boyfie",
+            "bio": "Boyfie is practically the biggest asshole around, going so far as to cut off his own ears to avoid listening to others. When he doesn't get his way, Boyfie turns into a huge crybaby.\n\nHe's into magic and can make objects appear randomly, including a shotgun. He doesn’t really care for anyone, except for his girlfriend, Girlfie.\n\nBoyfie may seem stupid but he’s actually pretty smart and has a very high IQ, however he is still kinda fucking insane.",
+            "textSize": 24,
+            "color": "008BFF"
+        },
+        {
+            "name": "girlfie",
+            "renderCount": 4,
+            "displayName": "Girlfie",
+            "bio": "Girlfie is the biggest sweetheart in the world, always happy, and supports all good people around her.\n\nShe's innocent and loves animals a ton, however she's not into paying for them. She thinks of animals as family and believes you don't buy family. This is why Girlfie agreed to steal the cow from the farm, to give it a safer environment.\n\nGirlfie is also very smart, she still goes to school to this day, she's even an A+ student!\n\nShe also likes cleaning, how she remains a match for Boyfie is a mystery...",
+            "textSize": 24,
+            "color": "FF005D"
+        },
+        {
+            "name": "flyreal",
+            "renderCount": 2,
+            "displayName": "Fly (HD)",
+            "bio": "thats a BIG ASS bee",
+            "textSize": 24,
+            "color": "454C61"
+        },
+        {
+            "name": "cow",
+            "renderCount": 1,
+            "displayName": "Cow",
+            "bio": "\n\nBUY  COW",
+            "textSize": 76,
+            "color": "57523A"
+        }
+    ]
+}

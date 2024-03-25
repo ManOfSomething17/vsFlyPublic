@@ -1,0 +1,30 @@
+{
+    "bios": [
+        {
+            "name": "cow",
+            "renderCount": 1,
+            "displayName": "Cow",
+            "bio": "moo, momoomomoo, moo moo. mooooo. moo moo moo? moomoo moo momoo. moo? moooooo. moooooo! MOOOOOOOOOOOOOOOOOOO\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(BUY COW!)",
+            "textSize": 24,
+            "color": "57523A"
+        },
+        {
+            "name": "placeholder",
+            "renderCount": 3,
+            "displayName": "Barry Buns",
+            "bio": "my everything he makes me happy i like barry barry is cool barry is neat sjkgdlfhkdhfj",
+            "textSize": 24,
+            "color": "2ECBEA"
+        },
+        {
+            "name": "placeholder2",
+            "renderCount": 1,
+            "displayName": "Kazuma Kiryu",
+            "bio": "i've never played yakuza",
+            "textSize": 24,
+            "color": "CE232B"
+        }
+    ]
+}
+
+placeholder character data, copy paste them into the other file if you want idc lmao

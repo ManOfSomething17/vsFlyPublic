@@ -1,0 +1,267 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				6,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle instance"
+		},
+		{
+			"offsets": [
+				-53,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down instance"
+		},
+		{
+			"offsets": [
+				-30,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up instance"
+		},
+		{
+			"offsets": [
+				-64,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right instance"
+		},
+		{
+			"offsets": [
+				-32,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				-9
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "leftalt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				-14
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "rightalt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-1
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "upalt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-16
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "downalt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				385,
+				-7
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "shoot instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				9
+			],
+			"anim": "reload",
+			"fps": 24,
+			"name": "reload instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				50,
+				13
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "idlegun instance"
+		},
+		{
+			"offsets": [
+				-27,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "UpMiss instance"
+		},
+		{
+			"offsets": [
+				-24,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "LeftMiss instance"
+		},
+		{
+			"offsets": [
+				-47,
+				-11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "DownMiss instance"
+		},
+		{
+			"offsets": [
+				-57,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "RightMiss instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				59,
+				42
+			],
+			"anim": "singLEFTmiss-alt",
+			"fps": 24,
+			"name": "LeftAltMISS instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-14
+			],
+			"anim": "singRIGHTmiss-alt",
+			"fps": 24,
+			"name": "RightAltMISS instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				-23
+			],
+			"anim": "singDOWNmiss-alt",
+			"fps": 24,
+			"name": "DownAltMISS instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				71,
+				94
+			],
+			"anim": "singUPmiss-alt",
+			"fps": 24,
+			"name": "UpAltMISS instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				17
+			],
+			"anim": "spawn",
+			"fps": 24,
+			"name": "spawn instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "end",
+			"indices": [],
+			"name": "end instance"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/boyfie",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "boyfie",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		139,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

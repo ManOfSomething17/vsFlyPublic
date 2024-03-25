@@ -1,0 +1,556 @@
+{
+	"song": {
+		"events": [
+			[
+				33838.2352941177,
+				[
+					[
+						"Big Camera Beat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				56426.4705882352,
+				[
+					[
+						"Big Camera Beat",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				70941.1764705882,
+				[
+					[
+						"Play Animation",
+						"spawn",
+						"1"
+					]
+				]
+			],
+			[
+				71294.1176470587,
+				[
+					[
+						"Alt Idle Animation",
+						"BF",
+						"-alt"
+					],
+					[
+						"Change Game Over Character",
+						"boyfie_DEAD2",
+						"FarmTwo"
+					]
+				]
+			],
+			[
+				72705.8823529411,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				78352.9411764705,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"BF"
+					]
+				]
+			],
+			[
+				79058.8235294117,
+				[
+					[
+						"Alt Idle Animation",
+						"BF",
+						"-alt"
+					]
+				]
+			],
+			[
+				83294.1176470587,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"BF"
+					]
+				]
+			],
+			[
+				83999.9999999999,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				90882.3529411763,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"BF"
+					]
+				]
+			],
+			[
+				91411.7647058822,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"BF"
+					]
+				]
+			],
+			[
+				93176.4705882352,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				93882.3529411763,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"BF"
+					]
+				]
+			],
+			[
+				100941.176470588,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"BF"
+					]
+				]
+			],
+			[
+				101602.94117647,
+				[
+					[
+						"Big Camera Beat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				102352.94117647,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				103058.823529412,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"BF"
+					]
+				]
+			],
+			[
+				103588.235294117,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"BF"
+					]
+				]
+			],
+			[
+				105088.235294117,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				105882.352941176,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"BF"
+					]
+				]
+			],
+			[
+				114352.94117647,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"BF"
+					]
+				]
+			],
+			[
+				116117.647058823,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				117176.470588235,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"BF"
+					]
+				]
+			],
+			[
+				117705.882352941,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"BF"
+					]
+				]
+			],
+			[
+				124229.779411764,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						""
+					],
+					[
+						"Big Camera Beat",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				124235.294117647,
+				[
+					[
+						"Tween BF Notes Alpha",
+						"0",
+						"0.3"
+					],
+					[
+						"Tween Dad Notes Alpha",
+						"0",
+						"0.3"
+					]
+				]
+			],
+			[
+				131294.117647059,
+				[
+					[
+						"Tween Dad Notes Alpha",
+						"1",
+						"3.5"
+					]
+				]
+			],
+			[
+				135529.411764706,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136941.176470588,
+				[
+					[
+						"Tween BF Notes Alpha",
+						"1",
+						"3.5"
+					],
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				137470.588235294,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				138352.94117647,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				139588.235294117,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				139764.705882353,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				140294.117647059,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				140823.529411764,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				141176.470588235,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				142588.235294117,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				143117.647058823,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				145235.294117647,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				145411.764705882,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				145941.176470588,
+				[
+					[
+						"Add Camera Zoom",
+						"",
+						""
+					]
+				]
+			],
+			[
+				146117.647058823,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				146818.014705882,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				152117.647058823,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				152426.470588235,
+				[
+					[
+						"Big Camera Beat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				154941.176470588,
+				[
+					[
+						"Play Animation",
+						"reload",
+						"BF"
+					]
+				]
+			],
+			[
+				162308.823529411,
+				[
+					[
+						"Big Camera Beat",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				163720.588235294,
+				[
+					[
+						"Big Camera Beat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				169367.647058823,
+				[
+					[
+						"Big Camera Beat",
+						"false",
+						""
+					]
+				]
+			],
+			[
+				169433.823529411,
+				[
+					[
+						"Play Animation",
+						"end",
+						"1"
+					],
+					[
+						"Force Unmute Vocals",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				169764.705882353,
+				[
+					[
+						"Tween BF Notes Alpha",
+						"0",
+						"0.5"
+					],
+					[
+						"Tween Dad Notes Alpha",
+						"0",
+						"0.5"
+					]
+				]
+			]
+		]
+	}
+}
